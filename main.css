@@ -1,0 +1,12 @@
+body{
+     font-family: 'Lora', serif;
+}
+
+#chartContainer{
+     min-width: 40%;
+     min-height: 35%;
+}
+
+.progress{
+     margin-left: 50%;
+}
